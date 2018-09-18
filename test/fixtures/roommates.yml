@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  member_id: 1
+  question1: MyString
+  question2: MyString
+  question3: MyString
+  question4: MyString
+  question5: MyString
+  question6: MyString
+  question7: MyString
+  question8: MyString
+  question9: MyString
+  question10: MyString
+  question11: MyString
+  question12: MyString
+  question13: MyString
+  question14: MyString
+  question15: MyString
+  question16: MyString
+  question15: MyString
+  question17: MyString
+  question18: MyString
+  question19: MyString
+  question20: MyString
+
+two:
+  member_id: 1
+  question1: MyString
+  question2: MyString
+  question3: MyString
+  question4: MyString
+  question5: MyString
+  question6: MyString
+  question7: MyString
+  question8: MyString
+  question9: MyString
+  question10: MyString
+  question11: MyString
+  question12: MyString
+  question13: MyString
+  question14: MyString
+  question15: MyString
+  question16: MyString
+  question15: MyString
+  question17: MyString
+  question18: MyString
+  question19: MyString
+  question20: MyString
